@@ -52,15 +52,6 @@ public class ActivityTwo extends Activity implements OnClickListener {
 		
 		phoneView = (TextView) findViewById(R.id.textView10);
 		phoneView.setText(MainActivity.getInputPhone().getText().toString());
-		//phoneView.setMovementMethod(LinkMovementMethod.getInstance());
-		
-		/*emailView = (TextView) findViewById(R.id.textView11);
-		emailView.setText(MainActivity.getInputEmail().getText().toString());
-		text = "<a href=\"mailto:";
-		text += MainActivity.getInputEmail().getText().toString();
-		text += "\">Send Feedback</a>";
-		emailView.setText(Html.fromHtml(text));
-		emailView.setMovementMethod(LinkMovementMethod.getInstance());*/
 		
 		emailView = (TextView) findViewById(R.id.textView11);
 		emailView.setText(MainActivity.getInputEmail().getText().toString());
