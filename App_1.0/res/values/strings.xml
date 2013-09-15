@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App_1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="default_push">push</string>
+    <string name="default_text">this is a textfield</string>
+    <string name="default_input">ввести</string>
+    <string name="default_check">выбрать</string>
+    
+    <string name="hello">Добро пожаловать!</string>
+    <string name="create_resume">Создайте резюме:</string>
+    <string name="info_block1">Персональная информация</string>
+    <string name="example_family_name">Петров Петр Петрович</string>
+    <string name="info_bday">Дата рождения</string>
+    <string name="info_sex">Пол</string>
+    <string name="sex_man">мужской</string>
+    <string name="sex_women">женский</string>
+    <string name="info_block2">Желаемая должность и зарплата</string>
+    <string name="example_post">Android-разработчик</string>
+    <string name="example_salary">50000</string>
+    <string name="info_block3">Контактные данные</string>
+    <string name="example_phone_number">+7 915 700 70 70</string>
+    <string name="example_email">answerme@gmail.com</string>
+    <string name="send_resume">Отправить резюме</string>
+    <string name="sent_resume">Полученное резюме:</string>
+    <string name="info_can">Вы можете написать ответ соискателю:</string>
+    <string name="send_answer">Отправить ответ</string>
+    <string name="employer_response">Ответ работодателя:</string>
+    
+    
+    <color name="green">#00FF00</color>
+
+</resources>
